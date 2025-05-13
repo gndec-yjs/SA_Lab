@@ -1,4 +1,8 @@
-# SA_Lab
+# Structural Laboratory
+## Course Code: LPCCE-108 
+
+### [Lab Manual](Structural_Lab_Manual_(YJS).pdf)
+
 
 For any queries, write at
 
